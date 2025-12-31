@@ -1,14 +1,15 @@
-import "./App.css";
 
-import navImg from "./assets/logo.png";
-import dollarImg from "./assets/dollar-1.png";
+// import AvailablePlayers from "./Components/AvailablePlayers/AvailablePlayers";
+// import SelectedPlayers from "./Components/SelectedPlayers/SelectedPlayers";
+import Navbar from "./Components/Navbar";
 
 function App() {
   return (
     <>
+
       <Navbar></Navbar>
-      <AvailablePlayers></AvailablePlayers>
-      <SelecetedPlayers></SelecetedPlayers>
+      {/* <AvailablePlayers></AvailablePlayers>
+      <SelectedPlayers></SelectedPlayers> */}
     </>
   );
 }
