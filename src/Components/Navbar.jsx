@@ -1,5 +1,4 @@
 import React from "react";
-import bannerMain from"../assets/";
 
 const Navbar = () => {
   return (
@@ -13,7 +12,7 @@ const Navbar = () => {
         <div className="flex">
           <span>6000000</span>
           <span className="mx-1"> Coin</span>
-          <img src={bannerMain} alt="" />
+          <img src="public/dollar-1.png" alt="" />
         </div>
       </div>
     </>
