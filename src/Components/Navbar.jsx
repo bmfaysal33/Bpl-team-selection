@@ -1,6 +1,6 @@
 import React from "react";
 
-const Navbar = () => {
+const Navbar = ({availableBalance}) => {
   return (
     <>
       <div className="navbar max-w-[1200px] mx-auto">
@@ -10,7 +10,7 @@ const Navbar = () => {
           </a>
         </div>
         <div className="flex">
-          <span>6000000</span>
+          <span>{availableBalance}</span>
           <span className="mx-1"> Coin</span>
           <img src="public/dollar-1.png" alt="" />
         </div>
