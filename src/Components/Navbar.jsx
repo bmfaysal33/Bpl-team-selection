@@ -10,7 +10,7 @@ const Navbar = ({availableBalance}) => {
           </a>
         </div>
         <div className="flex">
-          <span>{availableBalance}</span>
+          <span>${availableBalance} USD</span>
           <span className="mx-1"> Coin</span>
           <img src="public/dollar-1.png" alt="" />
         </div>

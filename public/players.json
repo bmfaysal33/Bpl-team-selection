@@ -7,7 +7,7 @@
     "player-rating": 92,
     "batting-style": "Right-hand bat",
     "bowling-style": "Right-arm medium",
-    "price": "15.0 Cr"
+    "price": "$1,800,000 USD"
   },
   {
     "player-image": "https://i.ibb.co.com/NnyHZBjz/tamim1.png",
@@ -17,7 +17,7 @@
     "player-rating": 89,
     "batting-style": "Right-hand bat",
     "bowling-style": "Right-arm fast",
-    "price": "20.5 Cr"
+    "price": "$2,100,000 USD"
   },
   {
     "player-image": "https://i.ibb.co.com/NnyHZBjz/tamim1.png",
@@ -27,7 +27,7 @@
     "player-rating": 94,
     "batting-style": "Right-hand bat",
     "bowling-style": "Right-arm legbreak",
-    "price": "18.0 Cr"
+    "price": "$2,000,000 USD"
   },
   {
     "player-image": "https://i.ibb.co.com/NnyHZBjz/tamim1.png",
@@ -37,7 +37,7 @@
     "player-rating": 88,
     "batting-style": "Right-hand bat",
     "bowling-style": "None",
-    "price": "12.5 Cr"
+    "price": "$1,400,000 USD"
   },
   {
     "player-image": "https://i.ibb.co.com/0jX389Ck/kohli.jpg",
@@ -47,7 +47,7 @@
     "player-rating": 91,
     "batting-style": "Left-hand bat",
     "bowling-style": "Slow left-arm orthodox",
-    "price": "10.0 Cr"
+    "price": "$1,100,000 USD"
   },
   {
     "player-image": "https://i.ibb.co.com/0jX389Ck/kohli.jpg",
@@ -57,7 +57,7 @@
     "player-rating": 87,
     "batting-style": "Right-hand bat",
     "bowling-style": "Left-arm fast-medium",
-    "price": "8.5 Cr"
+    "price": "$950,000 USD"
   },
   {
     "player-image": "https://i.ibb.co.com/0jX389Ck/kohli.jpg",
@@ -67,7 +67,7 @@
     "player-rating": 90,
     "batting-style": "Right-hand bat",
     "bowling-style": "Right-arm offbreak",
-    "price": "14.0 Cr"
+    "price": "$1,550,000 USD"
   },
   {
     "player-image": "https://i.ibb.co.com/0jX389Ck/kohli.jpg",
@@ -77,7 +77,7 @@
     "player-rating": 86,
     "batting-style": "Left-hand bat",
     "bowling-style": "None",
-    "price": "9.5 Cr"
+    "price": "$1,050,000 USD"
   },
   {
     "player-image": "https://i.ibb.co.com/NnyHZBjz/tamim1.png",
@@ -87,7 +87,7 @@
     "player-rating": 85,
     "batting-style": "Right-hand bat",
     "bowling-style": "Right-arm offbreak",
-    "price": "11.0 Cr"
+    "price": "$1,250,000 USD"
   },
   {
     "player-image": "https://i.ibb.co.com/NnyHZBjz/tamim1.png",
@@ -97,7 +97,7 @@
     "player-rating": 93,
     "batting-style": "Right-hand bat",
     "bowling-style": "Right-arm fast",
-    "price": "16.0 Cr"
+    "price": "$1,750,000 USD"
   },
   {
     "player-image": "https://i.ibb.co.com/NnyHZBjz/tamim1.png",
@@ -107,7 +107,7 @@
     "player-rating": 84,
     "batting-style": "Right-hand bat",
     "bowling-style": "Right-arm legbreak",
-    "price": "10.5 Cr"
+    "price": "$1,150,000 USD"
   },
   {
     "player-image": "https://i.ibb.co.com/NnyHZBjz/tamim1.png",
@@ -117,6 +117,6 @@
     "player-rating": 83,
     "batting-style": "Left-hand bat",
     "bowling-style": "Right-arm offbreak",
-    "price": "7.5 Cr"
+    "price": "$850,000 USD"
   }
 ]
